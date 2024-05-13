@@ -24,6 +24,7 @@ th , td{
   h1{
     text-align : center;
     color:blue;
+      border-collapse: collapse;
   }
   #id1
   {
